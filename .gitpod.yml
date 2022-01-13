@@ -1,4 +1,4 @@
-image: XXXXXXXXXX
+image: patrickmckernin/integerchapterwinter2022
 
 tasks:
   - init: bin/setup

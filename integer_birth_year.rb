@@ -8,8 +8,8 @@
 
 p "How old are you?"
 
-age = gets.chomp
-year_born = 2020 - age.to_i
+age = gets
+year_born = 2022 - age.to_i
 
 p "Wow, you were born in " + year_born.to_s + ". You're old!"
 
